@@ -6,3 +6,4 @@ git branch -M main
 git remote add origin https://github.com/hackexAd/hacktoberfest.gitp
 hello human
 write abc
+hack xyz
